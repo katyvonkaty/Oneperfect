@@ -18,6 +18,10 @@ h1,h2,h3,h4,h5 {
   font-weight:700;
 }
 
+h1 {
+  font-size:3.5rem;
+}
+
 p {
   color:#666;
 }
@@ -85,7 +89,6 @@ main h1 {
   text-align: center;
 }
 .marketing h2 {
-  font-weight: 400;
   margin-top:20px;
 }
 .marketing .col-lg-4 p {
@@ -103,8 +106,8 @@ main h1 {
 
 /* Thin out the marketing headings */
 .featurette-heading {
-  font-weight: 300;
   line-height: 1;
+  font-weight:700
   letter-spacing: -.05rem;
 }
 
@@ -121,7 +124,7 @@ main h1 {
   }
 
   .featurette-heading {
-    font-size: 50px;
+    font-size: 40px;
   }
 }
 
