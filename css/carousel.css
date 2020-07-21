@@ -36,11 +36,16 @@ p {
   margin-top:130px;
 }
 
+.btn-primary:hover{
+  background-color:white;
+  color:#480003;
+  border: 1px solid #480003;
+}
+
 
 main h1 {
   margin-top:130px;
 }
-
 
 
 .btn-primary, .btn-secondary {
@@ -110,6 +115,8 @@ main h1 {
   font-weight:700
   letter-spacing: -.05rem;
 }
+
+
 
 
 /* RESPONSIVE CSS
